@@ -10,18 +10,18 @@
     <!-- <link rel="stylesheet" href="style.css"> -->
     <style>
 body {
-    height: 100vh;
+    /* height: 100vh; */
     display: grid;
     place-items: center;
     /* background-color: rgb(225, 225, 225); */
-    background-image: url(http://www.gratistodo.com/wp-content/uploads/2016/09/Los-Minions-Wallpapers-5-21.jpg);
+    background-image: url(./Los-Minions-Wallpapers-5-21.jpg);
 	background-repeat:no-repeat;
 }
 
 table {
     height: 500px;
     width: 500px;
-    background-image: url(http://images4.fanpop.com/image/photos/15900000/Minions-despicable-me-minions-15910026-1280-1006.jpg);
+    background-image: url(./123.jpg);
 	background-repeat:no-repeat;
     background-size:750px;
     border-radius: 30px;
@@ -56,7 +56,11 @@ td {
   background-color: lightyellow;
   color: blue
 }
-
+ 
+.sel{
+	float: left;
+	margin-top: 20px;
+}
 
 </style>
 
